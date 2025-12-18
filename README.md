@@ -1,6 +1,6 @@
 # Ruiyu Wang
 
-[📧 Email](mailto:wangryu98@gmail.com) | [📍 Location](China)
+[📧 Email](mailto:wangryu98@gmail.com) | [📍 Location](China)(https://www.google.com/maps/place/China)
 
 ## 👤 About Me
 I am a **Research Associate** at the **CUST Zhongshan Research Institute**. I hold an MSc with Merit in Advanced Computer Science from **Newcastle University** and a Bachelor's degree in Software Engineering from **Jilin University**.
