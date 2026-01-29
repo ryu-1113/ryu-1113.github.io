@@ -9,10 +9,11 @@ I'm currently looking for PhD postion starting in Spring/Fall 2026, and you can 
 * **Email: wangryu98[at]gmail[dot]com**
 
 My research interests focus on developing efficient and user-friendly AI applications, specifically in:
-* **AI Applications & Graph Neural Networks (GNN)**
+* **AI Applications**
+* **Graph Neural Networks (GNN)**
 * **Trustworthy AI**
 * **Multi-modal Data Integration**
-
+* **LLMs**
 ---
 
 ## 🎓 Education
