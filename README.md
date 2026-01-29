@@ -13,7 +13,8 @@ My research interests focus on developing efficient and user-friendly AI applica
 * **Graph Neural Networks (GNN)**
 * **Trustworthy AI**
 * **Multi-modal Data Integration**
-* **LLMs**
+* **Large Language Models (LLMs)**
+
 ---
 
 ## 🎓 Education
