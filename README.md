@@ -5,12 +5,9 @@
 ## 👤 About Me
 I am a **Research Associate** at the **CUST Zhongshan Research Institute**. I hold an MSc with Merit in Advanced Computer Science from **Newcastle University** and a Bachelor's degree in Software Engineering from **Jilin University**.
 
-I'm currently looking for PhD postion starting in Spring/Fall 2026, and you can reach me out by:
-* **Email: wangryu98[at]gmail[dot]com**
-
 My research interests focus on developing efficient and user-friendly AI applications, specifically in:
 * **AI Applications**
-* **Graph Neural Networks (GNN)**
+* **AI4S**
 * **Trustworthy AI**
 * **Multi-modal Data Integration**
 * **Large Language Models (LLMs)**
@@ -34,7 +31,7 @@ My research interests focus on developing efficient and user-friendly AI applica
 ---
 
 ## 📄 Publications
-* *(Reviewing)* Deep Learning-Based Nanomechanical Evaluation of Replicative Senescence in Human Umbilical Cord Mesenchymal Stem Cells
+* **Fu J, Wang R, Deng Q, et al. Deep Learning-Assisted Nanomechanical Evaluation of Replicative Senescence in Human Umbilical Cord Mesenchymal Stem Cells[J]. Langmuir, 2026, 42(20): 14079-14091.**
 
 ---
 
